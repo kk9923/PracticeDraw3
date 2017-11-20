@@ -22,7 +22,6 @@ public class Practice01DrawTextView extends View {
     public Practice01DrawTextView(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
-
     {
         paint.setTextSize(60);
     }
@@ -33,5 +32,7 @@ public class Practice01DrawTextView extends View {
 
         // 使用 drawText() 来绘制文字
         // 文字坐标： (50, 100)
+
+        canvas.drawText(text,50,100,paint);
     }
 }

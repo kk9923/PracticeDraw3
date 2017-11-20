@@ -24,7 +24,7 @@ public class Sample10SetTextAlignView extends View {
     }
 
     {
-        paint.setTextSize(60);
+        paint.setTextSize(30);
     }
 
     @Override

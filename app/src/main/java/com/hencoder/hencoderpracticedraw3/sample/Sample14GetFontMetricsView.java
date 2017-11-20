@@ -43,7 +43,6 @@ public class Sample14GetFontMetricsView extends View {
         super.onDraw(canvas);
 
         canvas.drawRect(50, top, getWidth() - 50, bottom, paint1);
-
         int middle = (top + bottom) / 2;
         canvas.drawText(texts[0], 100, middle + yOffset, paint2);
         canvas.drawText(texts[1], 200, middle + yOffset, paint2);
