@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://D:\AndroidPracticeDraw\PracticeDraw3\HenCoderPracticeDraw3.iml" filepath="D:\AndroidPracticeDraw\PracticeDraw3\HenCoderPracticeDraw3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeDraw3.iml" filepath="$PROJECT_DIR$/PracticeDraw3.iml" />
+      <module fileurl="file://D:\HenCoderPractice\PracticeDraw3\PracticeDraw3.iml" filepath="D:\HenCoderPractice\PracticeDraw3\PracticeDraw3.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\HenCoderPractice\PracticeDraw3\app\app.iml" filepath="D:\HenCoderPractice\PracticeDraw3\app\app.iml" />
     </modules>
   </component>
 </project>
